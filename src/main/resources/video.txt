@@ -1,0 +1,6 @@
+send us your password | spam
+send us your review | ham
+review your password | ham
+review us | spam
+send your password | spam
+send us your account | spam
